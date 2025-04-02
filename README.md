@@ -42,4 +42,15 @@ Zepto is a leading quick commerce platform, enabling rapid grocery and essential
 ✅ Understand regional demand for better inventory planning  
 
 ## 🖼️ Dashboard Image
-![Zepto Dashboard](Zepto.png)
+
+![Demo Image](https://github.com/smit012/Zepto-Sales-Analysis/blob/main/Data/Zepto.png)
+
+
+🚀 How to Use
+
+- 1️⃣ Download the .pbix file and open it in Power BI.
+- 2️⃣ Connect with your dataset (if required).
+- 3️⃣ Explore insights using filters and visualizations.
+
+If you find this project helpful, don't forget to ⭐ Star the repo! 😊
+
